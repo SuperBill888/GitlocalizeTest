@@ -1,4 +1,6 @@
 {
+  "L10N": "¡Hola! esta es una demostración",
+  "L10Nes": "español",
   "en": "Inglés",
   "es": "Español",
   "cancelButton": "CANCELAR",
@@ -42,8 +44,8 @@
   "move": "Mover",
   "delete": "Eliminar",
   "properties": "Propiedades",
-  "filterSolutions": "Filtrar Soluciones",
   "filterDeletions": "Filtrar Eliminaciones",
+  "filterSolutions": "Filtrar Soluciones",
   "solutionName": "NOMBRE DE LA SOLUCIÓN",
   "solutionDescription": "DESCRIPCIÓN",
   "solutionDisabled": "Solo se puede seleccionar una solución a la vez",
@@ -74,7 +76,6 @@
   "clickAddDesc": "Click para agregar",
   "uploadComplete": "Carga Completa",
   "removeUpload": "Remover Archivo",
-  "undefined": "",
   "default": "Predeterminado",
   "upgradeTitle": "Actualizar Proyecto de Logix",
   "logixVersionSelect": "Selecccionar Versión de Logix",
@@ -214,15 +215,13 @@
     "Version17AndOlderSafetySigAndLockToBeRemoved": "El proyecto contiene una firma de seguridad que es incompatible con la nueva versión del controlador de seguridad. Se borrará la firma."
   },
   "projectStatuses": {
-    "": "",
     "Ready": "Listo",
     "ReadyWithErrors": "ListoConErrores",
     "Error": "Error",
     "Processing": "Procesando",
     "Uploading": "Cargando",
     "Upgrading": "Actualizando",
-    "Migrating": "Migrando",
-    "undefined": ""
+    "Migrating": "Migrando"
   },
   "transactionTypes": {
     "Unknown": "Desconocido",
@@ -270,8 +269,8 @@
   },
   "ftvault.notification.SolutionCreated": "Solucion '{{solutionName}}' creada",
   "ftvault.notification.SolutionDeleted": "Solucion '{{solutionName}}' eliminada",
-  "ftvault.notification.SolutionMovedToTrash" : "Solucion '{{solutionName}}' enviada a la papelera",
-  "ftvault.notification.SolutionRestoredFromTrash" : "Solucion '{{solutionName}}' restaurada desde la papelera",
+  "ftvault.notification.SolutionMovedToTrash": "Solucion '{{solutionName}}' enviada a la papelera",
+  "ftvault.notification.SolutionRestoredFromTrash": "Solucion '{{solutionName}}' restaurada desde la papelera",
   "ftvault.notification.ProjectCreated": "Proyecto '{{projectName}}' creado",
   "ftvault.notification.ProjectDeleted": "Proyecto '{{projectName}}' eliminado",
   "ftvault.notification.ProjectMovedToTrash": "Proyecto '{{projectName}}' enviado a la papelera",
