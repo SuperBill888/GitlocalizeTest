@@ -1,4 +1,5 @@
 {
+  "L10N": "¡Hola! esta es una demostración",
   "en": "Inglés",
   "es": "Español",
   "cancelButton": "CANCELAR",
@@ -8,6 +9,7 @@
   "moveButton": "MOVER",
   "saveButton": "GUARDAR",
   "continueButton": "CONTINUAR",
+  "addButton": "NUEVO",
   "closeButton": "CERRAR",
   "createSolution": "Crear Solución",
   "addProject": "Agregar Proyecto",
